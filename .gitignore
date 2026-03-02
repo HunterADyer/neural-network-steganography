@@ -1,0 +1,15 @@
+# Compiled binaries (rebuild from .c files)
+payload
+payload_ode
+payload_otf
+payload_rat
+
+# Python
+__pycache__/
+*.pyc
+
+# Drafts (not for public)
+drafts/
+
+# Claude Code
+.claude/
